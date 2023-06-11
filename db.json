@@ -4,13 +4,17 @@
         "id": "p1",
         "resi": "11234",
         "nama": "Daniel Purwanto",
-        "alamat": "Jember"
+        "alamat": "Jember",
+        "latitude":-7.250445,
+        "longitude":112.768845,
       },
       {
         "id": "p2",
         "resi": "22314",
         "nama": "Arif Purnomo",
-        "alamat": "Mangli, Jember"
+        "alamat": "Mangli, Jember",
+        "latitude":-8.184486,
+        "longitude":113.668076,
       }
     ]
   }
