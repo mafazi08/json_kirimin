@@ -6,7 +6,7 @@
         "nama": "Daniel Purwanto",
         "alamat": "Jember",
         "latitude":-7.250445,
-        "longitude":112.768845,
+        "longitude":112.768845
       },
       {
         "id": "p2",
@@ -14,7 +14,7 @@
         "nama": "Arif Purnomo",
         "alamat": "Mangli, Jember",
         "latitude":-8.184486,
-        "longitude":113.668076,
+        "longitude":113.668076
       }
     ]
   }
